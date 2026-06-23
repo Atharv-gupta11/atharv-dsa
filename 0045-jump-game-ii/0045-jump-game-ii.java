@@ -1,21 +1,21 @@
 class Solution {
     public int jump(int[] nums) {
-        int mr=0;
-        int idx=-1;
-        int ans=0;
-        int i=0;
-        while(i<nums.length-1){
-            for(int j=1;j<=nums[i];j++){
-                int ridx=i+j;
-                if(ridx>=nums.length-1)return ans+1;
-                if(nums[ridx]+ridx>=mr){
-                    mr=nums[ridx]+ridx;
-                    idx=ridx;
+        if(nums.length==1)return 0;
+        int coverage=0;
+        int lastJumpIdx=0;
+        int jumps=0;
+        for(int i=0;i<nums.length;i++){
+            coverage=Math.max(coverage,i+nums[i]);
+
+            if(i==lastJumpIdx){
+                lastJumpIdx=coverage;
+                jumps++;
+
+                if(coverage>=nums.length-1){
+                    return jumps;
                 }
             }
-            i=idx;
-            ans++;
         }
-        return ans;
+        return jumps;
     }
 }
