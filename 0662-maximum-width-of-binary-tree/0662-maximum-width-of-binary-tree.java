@@ -23,21 +23,22 @@ class Solution {
             int sz=q.size();
             int s=-1;
             int e=-1;
+            int min=q.peek().idx;
             for(int i=0;i<sz;i++){
                 Info r=q.remove();
+                int curr=r.idx-min;
                 if(i==0){
-                    s=r.idx;
+                    s=r.idx-min;
                 }
                 if(i==sz-1){
-                    e=r.idx;
+                    e=r.idx-min;
                 }
                 TreeNode n=r.node;
-                int idx=r.idx;
                 if(n.left!=null){
-                    q.add(new Info(n.left,2*idx+1));
+                    q.add(new Info(n.left,2*curr+1));
                 }
                 if(n.right!=null){
-                    q.add(new Info(n.right,2*idx+2));
+                    q.add(new Info(n.right,2*curr+2));
                 }
             }
             mw=Math.max(mw,e-s+1);
