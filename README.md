@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0542-01-matrix) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1020-number-of-enclaves](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/1020-number-of-enclaves) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Dynamic Programming
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/1020-number-of-enclaves) |
 | [2685-count-the-number-of-complete-components](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/1020-number-of-enclaves) |
 | [2685-count-the-number-of-complete-components](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Search
 |  |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/1020-number-of-enclaves) |
 | [2685-count-the-number-of-complete-components](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
@@ -220,4 +224,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0542-01-matrix) |
+| [1020-number-of-enclaves](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
