@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0200-number-of-islands) |
 | [0435-non-overlapping-intervals](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0542-01-matrix) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0542-01-matrix](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0542-01-matrix) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/1020-number-of-enclaves) |
 | [2685-count-the-number-of-complete-components](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/2685-count-the-number-of-complete-components) |
@@ -226,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0542-01-matrix) |
 | [1020-number-of-enclaves](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
