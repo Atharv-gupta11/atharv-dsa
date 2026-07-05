@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Greedy
 |  |
 | ------- |
@@ -239,11 +240,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2685-count-the-number-of-complete-components](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/2685-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0207-course-schedule) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Matrix
 |  |
 | ------- |
@@ -264,4 +267,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
