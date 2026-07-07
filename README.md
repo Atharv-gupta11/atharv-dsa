@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0435-non-overlapping-intervals) |
+| [0509-fibonacci-number](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -284,4 +285,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
