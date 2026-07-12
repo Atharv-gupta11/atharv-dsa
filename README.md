@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/1631-path-with-minimum-effort) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Dynamic Programming
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Greedy
 |  |
