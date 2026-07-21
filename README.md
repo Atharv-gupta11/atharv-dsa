@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0300-longest-increasing-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0542-01-matrix) |
 | [0827-making-a-large-island](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0827-making-a-large-island) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0300-longest-increasing-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Atharv-gupta11/atharv-dsa/tree/master/0542-01-matrix) |
